@@ -1,0 +1,4 @@
+wrine
+=====
+
+write a line
